@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://houssemhosni.vercel.app/sitemap.xml
+Sitemap: https://portfolio-five-brown-68.vercel.app/sitemap.xml
